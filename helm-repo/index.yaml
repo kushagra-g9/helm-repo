@@ -9,7 +9,7 @@ entries:
     name: payments
     type: application
     urls:
-    - https://kushagra-g9.github.io/helm-repo/payments-0.1.0.tgz
+    - payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: shipping
     type: application
     urls:
-    - https://kushagra-g9.github.io/helm-repo/shipping-0.1.0.tgz
+    - shipping-0.1.0.tgz
     version: 0.1.0
 generated: "2025-05-25T21:45:40.248560162+05:30"
